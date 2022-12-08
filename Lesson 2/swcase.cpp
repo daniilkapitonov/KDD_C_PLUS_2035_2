@@ -5,7 +5,7 @@ int main(int argc, char const *argv[])
 {
     int number;
     cin >> number;
-    switch (number)
+    switch (number) //char string
     {
     case 0:
         cout << "Ноль";
